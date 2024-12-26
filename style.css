@@ -56,6 +56,7 @@ nav{
         }    
 
         i{
+            cursor: pointer;
             color: #3a52bf;
             font-size: 13px;
         }
@@ -480,6 +481,10 @@ nav{
                 color: #fff;
                 text-transform: capitalize;
             }
+        }
+
+        i{
+            cursor: pointer;
         }
     }
 }
